@@ -15,4 +15,5 @@ What value do you think it offers?
 	and the repository. You move files there before you create a commit based
 	on those files in the staging area. This is valuable because you can group
 	files together that you want to commit, and leave the ones that don't make 
-	sense behind in the working directory.
+	sense behind in the working directory.'
+
