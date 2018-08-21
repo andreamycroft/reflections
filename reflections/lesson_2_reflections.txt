@@ -15,5 +15,10 @@ What value do you think it offers?
 	and the repository. You move files there before you create a commit based
 	on those files in the staging area. This is valuable because you can group
 	files together that you want to commit, and leave the ones that don't make 
-	sense behind in the working directory.'
+	sense behind in the working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	You use the staging area to add the files that are being changed. And then you do the commit
+	and write a message that makes sense. I think all the files are saved even if you only add
+	one or two to the staging area? I'm not really sure yet..
 
