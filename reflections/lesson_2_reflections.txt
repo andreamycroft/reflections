@@ -1,0 +1,18 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+	When you initialize a repository it creates the hidden
+	file <.git> which does not contain any commits.
+	The initial commit is empty because you haven't made
+	any commits yet. If you enter <git status> it will tell you
+	that no commits have been made. You can view hidden files
+	with the command <dir /a> You need to create the git repo
+	so that you can start tracking your commits/changes. All
+	of your files initially are untracked files.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+	The staging area is like an in between stage between the working directory
+	and the repository. You move files there before you create a commit based
+	on those files in the staging area. This is valuable because you can group
+	files together that you want to commit, and leave the ones that don't make 
+	sense behind in the working directory.

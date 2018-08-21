@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I could more easily go through all changes and find where a potential error occurred.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would be easier to review past though processes, see changes, and find mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    You might think you don't need to commit in Git, make changes, and then forget what the changes were
+	and not be able to return to the original code. But Google docs might save too frequently when 
+	nothing of interest has really occurred.
+    You are more likely to create commits at logical points if doing it manually, for example
+	typos get a commit, fixing a small bug is a commit, adding a new feature is a commit.
+	It can be hard to determine how fine of a granularity you want with each commit, making
+	it too small or too large. But with practice you will probably be more logical in each commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    For Git files many of them might interact together for a more complicated programming problem.
+	They may make calls to each other etc.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log lets you see the id of the git commit, and the note you recorded with it to let you know what change occurred.
+	You can then use git diff to compare between two git commit id's and it will give you a breakdown of the line
+	additions and deletions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I wouldn't have to worry about messing up, because my previous work would be safe. This has been
+	an issue in the past with some of my programming assignments where I've fully had to copy programs
+	and save them in a separate location because I'm worried about breaking something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I need to learn Git so that I can be a more effective programmer. I need to be able to 
+	collaborate with other developers and keep track of the progress I'm making.
+	Additionally it will be a natural lead in to the creation of my portfolio on GitHub.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	I could be more confident in not breaking my code, I could review past mistakes, it would help enormously. 
